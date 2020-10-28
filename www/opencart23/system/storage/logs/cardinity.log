@@ -1,0 +1,29 @@
+2020-10-22 13:10:31 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-22 13:10:31 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 379a8ea3-2faf-4c40-bbb3-264dae930459
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-22T13:10:30.518Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 01
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2025
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Test
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+

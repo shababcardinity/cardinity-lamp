@@ -18,7 +18,7 @@ services:
       - ${LOG_DIR-./logs/apache2}:/var/log/apache2
   mysql:
     build: ./bin/mysql
-    container_name: '5.7-mysql'
+    container_name: '5.7-mysql_7.1.x'
     restart: 'always'
     ports:
       - "3306:3306"
@@ -29,18 +29,18 @@ services:
       MYSQL_ROOT_PASSWORD: tiger
   phpmyadmin:
     image: phpmyadmin/phpmyadmin
-    container_name: 'sc-phpmyadmin'
+    container_name: 'sc-phpmyadmin_7.1.x'
     links:
       - mysql
     environment:
       PMA_HOST: mysql
       PMA_PORT: 3306
     ports:
-      - '8080:80'
+      - '4321:80'
     volumes: 
       - /sessions
   redis:
-    container_name: 'sc-redis'
+    container_name: 'sc-redis_7.1.x'
     image: redis:latest
     ports:
       - "6379:6379"
