@@ -1,0 +1,449 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 06:04:19.058739 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 21 06:04:19.060425 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 06:04:19.060438 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 06:52:20.958501 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 06:53:18.845832 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 06:53:18.845950 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 06:53:29.741519 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 12:57:52.601376 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 12:57:52.601502 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 07:06:04.400857 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 07:06:52.599898 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 07:06:52.600031 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 07:12:40.748898 2020] [autoindex:error] [pid 12] [client 172.19.0.1:59722] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Oct 21 07:15:01.915882 2020] [autoindex:error] [pid 9] [client 172.19.0.1:59940] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Wed Oct 21 07:19:10.494017 2020] [core:crit] [pid 14] (13)Permission denied: [client 172.19.0.1:59960] AH00529: /var/www/html/opencart/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/var/www/html/opencart/' is executable
+[Wed Oct 21 07:19:34.675787 2020] [core:crit] [pid 10] (13)Permission denied: [client 172.19.0.1:59964] AH00529: /var/www/html/opencart/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/var/www/html/opencart/' is executable
+[Wed Oct 21 07:19:35.389503 2020] [core:crit] [pid 10] (13)Permission denied: [client 172.19.0.1:59964] AH00529: /var/www/html/opencart/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/var/www/html/opencart/' is executable
+[Wed Oct 21 07:20:30.370339 2020] [core:crit] [pid 11] (13)Permission denied: [client 172.19.0.1:60006] AH00529: /var/www/html/opencart/install/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/var/www/html/opencart/install/' is executable
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 15:07:13.894173 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 21 15:07:13.895906 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 15:07:13.895920 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 09:17:08.596045 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 15:21:34.766357 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 15:21:34.766487 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 12:55:43.677883 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 21 12:55:43.679357 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 12:55:43.679370 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+[Wed Oct 21 15:33:31.796090 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 21 21:35:31.048836 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Wed Oct 21 21:35:31.048959 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Wed Oct 21 15:36:46.161720 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.2. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 04:06:04.579707 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Thu Oct 22 04:06:04.579845 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Oct 22 04:10:51.065465 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 04:11:46.074717 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Thu Oct 22 04:11:46.074835 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 04:30:32.788737 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 04:30:32.790580 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 configured -- resuming normal operations
+[Thu Oct 22 04:30:32.790600 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+[Thu Oct 22 06:33:31.806470 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 06:33:32.601013 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 06:33:32.601050 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Oct 22 07:16:57.813929 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+[Thu Oct 22 07:16:58.572609 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 07:16:58.572657 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 07:16:58.590489 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 07:16:58.590502 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 22 07:16:58.592041 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 07:16:58.592056 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Oct 22 07:25:30.212758 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 07:25:30.212805 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 07:25:30.230859 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 07:25:30.230874 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 22 07:25:30.230930 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 07:25:30.232588 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 07:25:30.232606 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 17:28:25.040270 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 17:28:25.041565 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 17:28:25.041581 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 11:51:49.345230 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 11:51:49.346571 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 11:51:49.346593 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Oct 22 11:57:33.431503 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+[Thu Oct 22 11:57:34.110523 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 11:57:34.110601 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 11:57:34.128667 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 11:57:34.128682 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 22 11:57:34.130284 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 11:57:34.130306 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+sh: 1: -t: not found
+sh: 1: -t: not found
+[Thu Oct 22 12:39:23.754810 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 12:39:23.756464 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 12:39:23.798100 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 12:39:23.798114 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 22 12:39:23.798169 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 12:39:23.799423 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 12:39:23.799435 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Thu Oct 22 14:44:38.051306 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 14:44:38.051365 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 22 14:44:38.069915 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Thu Oct 22 14:44:38.069929 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Oct 22 14:44:38.069984 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 22 14:44:38.071445 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Thu Oct 22 14:44:38.071463 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Fri Oct 23 13:26:58.242990 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 23 13:26:58.244604 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 23 13:26:58.283206 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Fri Oct 23 13:26:58.283220 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Oct 23 13:26:58.283275 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 23 13:26:58.284803 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Fri Oct 23 13:26:58.284819 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Oct 24 11:37:31.588524 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 24 11:37:31.590165 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Oct 24 11:37:31.633431 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Sat Oct 24 11:37:31.633447 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 24 11:37:31.633520 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 24 11:37:31.635112 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Sat Oct 24 11:37:31.635130 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Sat Oct 24 07:39:10.518996 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+[Mon Oct 26 10:04:16.424236 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 10:04:16.440479 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 26 10:04:16.656227 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 10:04:16.656289 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 26 10:04:16.662940 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Oct 26 10:04:16.663008 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Oct 26 04:06:41.669779 2020] [mpm_prefork:notice] [pid 7] AH00169: caught SIGTERM, shutting down
+[Mon Oct 26 04:07:32.241232 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 04:07:32.242781 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 26 04:07:32.280608 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 04:07:32.280628 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 26 04:07:32.281868 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Oct 26 04:07:32.281883 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Mon Oct 26 11:07:33.088021 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 11:07:33.089554 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Oct 26 11:07:33.133494 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Mon Oct 26 11:07:33.133517 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 26 11:07:33.133603 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Oct 26 11:07:33.135404 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Mon Oct 26 11:07:33.135426 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Oct 27 10:55:32.508975 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 27 10:55:32.509572 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Oct 27 10:55:32.550950 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Tue Oct 27 10:55:32.550965 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue Oct 27 10:55:32.551019 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 27 10:55:32.552511 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Tue Oct 27 10:55:32.552528 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+[Tue Oct 27 11:02:53.986487 2020] [core:crit] [pid 25] (13)Permission denied: [client 172.19.0.1:57732] AH00529: /var/www/html/opencart/.htaccess pcfg_openfile: unable to check htaccess file, ensure it is readable and that '/var/www/html/opencart/' is executable
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+sh: 1: -t: not found
+[Wed Oct 28 05:06:30.612174 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 28 05:06:30.613095 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 28 05:06:30.651490 2020] [ssl:warn] [pid 7] AH01906: your_domain.com:443:0 server certificate is a CA certificate (BasicConstraints: CA == TRUE !?)
+[Wed Oct 28 05:06:30.651506 2020] [ssl:warn] [pid 7] AH01909: your_domain.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed Oct 28 05:06:30.651560 2020] [core:warn] [pid 7] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 28 05:06:30.652846 2020] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Wed Oct 28 05:06:30.652862 2020] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
