@@ -1,0 +1,33 @@
+2020-10-27 11:13:46 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 11:13:46 - PHP Notice:  Undefined variable: payment_cardinity_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 70
+2020-10-27 11:26:32 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 11:26:32 - PHP Notice:  Undefined variable: payment_cardinity_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 70
+2020-10-27 11:27:03 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 11:27:03 - PHP Notice:  Undefined variable: payment_cardinity_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 70
+2020-10-27 11:27:30 - PHP Notice:  Undefined index: SameSite in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 118
+2020-10-27 11:27:30 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/session.php on line 50
+2020-10-27 11:27:30 - PHP Notice:  Undefined index: order_id in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 364
+2020-10-27 11:33:11 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 11:33:11 - PHP Notice:  Undefined variable: payment_cardinity_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 70
+2020-10-27 11:38:33 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 11:38:33 - PHP Notice:  Undefined variable: payment_cardinity_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 70
+2020-10-27 12:07:47 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 12:07:49 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 12:07:56 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 12:09:49 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 12:20:56 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 12:54:50 - PHP Notice:  Undefined index: 7d39c55e63c055839b54af9d9d16c49c in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 321
+2020-10-27 12:54:50 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/response.php on line 12
+2020-10-27 12:56:17 - PHP Notice:  Undefined index: 7d39c55e63c055839b54af9d9d16c49c in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 321
+2020-10-27 12:56:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/response.php on line 12
+2020-10-27 13:12:44 - PHP Notice:  Undefined index: signature in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 358
+2020-10-27 13:12:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/response.php on line 12
+2020-10-27 13:16:57 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 13:18:02 - PHP Notice:  Undefined index: signature in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 155
+2020-10-27 13:18:02 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/response.php on line 12
+2020-10-27 13:42:16 - PHP Notice:  Undefined variable: help_external in /var/www/html/opencart/admin/view/template/extension/payment/cardinity.tpl on line 67
+2020-10-27 13:42:42 - PHP Notice:  Undefined index: SameSite in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 351
+2020-10-27 13:42:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/session.php on line 50
+2020-10-27 13:42:42 - PHP Notice:  Undefined index: SameSite in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 365
+2020-10-27 13:42:42 - PHP Notice:  Undefined index: order_id in /var/www/html/opencart/catalog/controller/extension/payment/cardinity.php on line 368
+2020-10-27 13:42:42 - PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/opencart/catalog/controller/startup/error.php:34) in /var/www/html/opencart/system/library/response.php on line 12

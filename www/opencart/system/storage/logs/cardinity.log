@@ -1,0 +1,317 @@
+2020-10-27 13:00:51 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:00:51 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => d9e88bcf-b0dd-4e92-a796-181742c52026
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:00:48Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 35
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:01:18 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:01:18 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => b865fb45-c6f9-4e1f-bdaa-35007169bdfe
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:01:18.427Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 36
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:01:18 - (ControllerExtensionPaymentCardinity::testLog) - JSONArray
+(
+    [3ds] => 
+    [success] => 
+    [error] => 
+    [redirect] => http://testas.do/opencart/index.php?route=checkout/success
+)
+
+2020-10-27 13:12:44 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:12:44 - (ControllerExtensionPaymentCardinity::failedOrder) - Invalid hash.
+2020-10-27 13:14:10 - (ModelExtensionPaymentCardinity::finalizePayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":378:{{"id":"2a570fcd-6f3b-48ec-bf60-979cf6320975","amount":"199.60","currency":"EUR","created":"2020-10-27T13:14:07Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"38","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"5454","exp_year":2028,"exp_month":10,"holder":"Firefox Internal TEst"}}}
+2020-10-27 13:14:10 - (ModelExtensionPaymentCardinity::finalizePayment) - status: CRD-TEST: Do Not Honor;
+2020-10-27 13:14:10 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:14:10 - (ControllerExtensionPaymentCardinity::failedOrder) - Error finalizing payment.
+2020-10-27 13:14:52 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:14:52 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => a032fc1b-ad20-4a10-9930-e348d5793ce7
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:14:48Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 39
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:15:28 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:15:28 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 631f57a6-2aaf-4fcf-bd12-6006182d04f9
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:15:27.817Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 40
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:15:28 - (ControllerExtensionPaymentCardinity::testLog) - JSONArray
+(
+    [3ds] => 
+    [success] => 
+    [error] => 
+    [redirect] => http://testas.do/opencart/index.php?route=checkout/success
+)
+
+2020-10-27 13:16:26 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:16:26 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 0ecc2658-bc4f-44d6-a018-d3de30f38f22
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:16:24Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 41
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:16:43 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:16:43 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => d9e00de6-6957-4523-8f69-fbb23ff953ac
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:16:42.537Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 42
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:16:43 - (ControllerExtensionPaymentCardinity::testLog) - JSONArray
+(
+    [3ds] => 
+    [success] => 
+    [error] => 
+    [redirect] => http://testas.do/opencart/index.php?route=checkout/success
+)
+
+2020-10-27 13:18:02 - (ControllerExtensionPaymentCardinity::testLog) - Payment was declined by issuing bank.
+2020-10-27 13:18:02 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:18:02 - (ControllerExtensionPaymentCardinity::failedOrder) - Card was declined
+2020-10-27 13:18:43 - (ControllerExtensionPaymentCardinity::testLog) - Payment was declined by issuing bank.
+2020-10-27 13:18:43 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:18:43 - (ControllerExtensionPaymentCardinity::failedOrder) - Card was declined
+2020-10-27 13:19:52 - (ControllerExtensionPaymentCardinity::testLog) - Payment was declined by issuing bank.
+2020-10-27 13:19:52 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:19:52 - (ControllerExtensionPaymentCardinity::failedOrder) - Card was declined
+2020-10-27 13:37:58 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:37:58 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-27T13:20:19.723Z
+    [currency] => EUR
+    [description] => OC46
+    [id] => adb5a972-dfbe-4659-b343-6b5014e103ad
+    [live] => 
+    [order_id] => 046
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 8cb01f33c3651ceb14397f555ea0c24d9b83267668110d76d69b114945c987b1
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-27 13:41:36 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:41:36 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-27T13:38:24Z
+    [currency] => EUR
+    [description] => OC47
+    [id] => dab28a4f-79cb-46f2-ada7-3064b4eb3266
+    [live] => 
+    [order_id] => 047
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => db83c197d46b4be6128632730f1c8ce65db12d3d8c20d375f3395a89721fbaa8
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-27 13:42:42 - (ControllerExtensionPaymentCardinity::failedOrder) - Payment failed, details below
+2020-10-27 13:42:42 - (ControllerExtensionPaymentCardinity::failedOrder) - Invalid hash.
+2020-10-27 13:46:06 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:46:06 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 0b5e4496-a1c5-4765-a1d9-3490011678cf
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:46:04Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 49
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:47:30 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Payment success, details below
+2020-10-27 13:47:30 - (ControllerExtensionPaymentCardinity::finalizeOrder) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 53c43d0a-5da5-4628-a3cf-774036b3b841
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-27T13:47:30.332Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 50
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2028
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 10
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Internal TEst
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-27 13:47:30 - (ControllerExtensionPaymentCardinity::testLog) - JSONArray
+(
+    [3ds] => 
+    [success] => 
+    [error] => 
+    [redirect] => https://testas.do/opencart/index.php?route=checkout/success
+)
+

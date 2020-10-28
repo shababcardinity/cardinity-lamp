@@ -31,6 +31,10 @@ RUN docker-php-ext-install curl \
 # Enable apache modules
 RUN a2enmod rewrite headers
 
+# for https
+RUN a2ensite default-ssl.conf
+RUN service apache2 restart
+
 EXPOSE 80
 
 ENTRYPOINT ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
