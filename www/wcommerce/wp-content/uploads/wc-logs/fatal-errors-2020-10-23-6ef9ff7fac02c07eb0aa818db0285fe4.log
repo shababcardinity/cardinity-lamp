@@ -1,0 +1,139 @@
+2020-10-23T11:35:31+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:35:44+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:37:29+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:37:32+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:38:42+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:41:45+00:00 CRITICAL Uncaught Error: Class 'Cardinity\Method\Payment\Create' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php:719
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(14)
+#2 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(14)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_Checkout->process_order_payment(14, 'cardinity')
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-ajax.php(464): WC_Checkout->process_checkout()
+#5 /var/www/html/wcommerce/wp-includes/clas in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php on line 719
+
+2020-10-23T11:44:01+00:00 CRITICAL Uncaught Error: Class 'ComposerAutoloaderInitecd4ea811f7d4a005d52632035136572' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php:8
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(28): require_once()
+#1 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(287): cardinity_init('')
+#2 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wcommerce/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wcommerce/wp-settings.php(409): do_action('plugins_loaded')
+#5 /var/www/html/wcommerce/wp-config.php(91): require_once('/var/www/html/w...')
+#6 /var/www/html/wcommerce/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wcommerce/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#8 {main}
+  thrown in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php on line 8
+
+2020-10-23T11:44:01+00:00 CRITICAL Uncaught Error: Class 'ComposerAutoloaderInitecd4ea811f7d4a005d52632035136572' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php:8
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(28): require_once()
+#1 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(287): cardinity_init('')
+#2 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wcommerce/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wcommerce/wp-settings.php(409): do_action('plugins_loaded')
+#5 /var/www/html/wcommerce/wp-config.php(91): require_once('/var/www/html/w...')
+#6 /var/www/html/wcommerce/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wcommerce/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/wcommerce/index.php(17): require('/var/www/html/w...')
+#9 {m in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php on line 8
+
+2020-10-23T11:44:13+00:00 CRITICAL Uncaught Error: Class 'ComposerAutoloaderInitecd4ea811f7d4a005d52632035136572' not found in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php:8
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(28): require_once()
+#1 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(287): cardinity_init('')
+#2 /var/www/html/wcommerce/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wcommerce/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /var/www/html/wcommerce/wp-settings.php(409): do_action('plugins_loaded')
+#5 /var/www/html/wcommerce/wp-config.php(91): require_once('/var/www/html/w...')
+#6 /var/www/html/wcommerce/wp-load.php(37): require_once('/var/www/html/w...')
+#7 /var/www/html/wcommerce/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#8 /var/www/html/wcommerce/index.php(17): require('/var/www/html/w...')
+#9 {m in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/autoload.php on line 8
+
+2020-10-23T11:49:17+00:00 CRITICAL Uncaught Error: Class name must be a valid object or a string in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/symfony/validator/Constraints/TypeValidator.php:45
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/symfony/validator/Validator/RecursiveContextualValidator.php(809): Symfony\Component\Validator\Constraints\TypeValidator->validate(80, Object(Symfony\Component\Validator\Constraints\Type))
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/symfony/validator/Validator/RecursiveContextualValidator.php(649): Symfony\Component\Validator\Validator\RecursiveContextualValidator->validateInGroup(80, NULL, Object(Symfony\Component\Validator\Mapping\GenericMetadata), 'Default', Object(Symfony\Component\Validator\Context\ExecutionContext))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/symfony/valida in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/symfony/validator/Constraints/TypeValidator.php on line 45
+
+2020-10-23T12:29:00+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php:55
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(736): Cardinity\Method\Payment\ThreeDS2Data::getBrowserInfo()
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(18)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(18)
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_C in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php on line 55
+
+2020-10-23T12:32:18+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php:55
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(738): Cardinity\Method\Payment\ThreeDS2Data::getBrowserInfo()
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(18)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(18)
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_C in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php on line 55
+
+2020-10-23T12:33:00+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php:55
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(738): Cardinity\Method\Payment\ThreeDS2Data::getBrowserInfo()
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(18)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(18)
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_C in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php on line 55
+
+2020-10-23T12:35:21+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php:55
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(738): Cardinity\Method\Payment\ThreeDS2Data::getBrowserInfo()
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(18)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(18)
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_C in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php on line 55
+
+2020-10-23T12:36:36+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php:55
+Stack trace:
+#0 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(738): Cardinity\Method\Payment\ThreeDS2Data::getBrowserInfo()
+#1 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(299): WC_Cardinity_Gateway->getPaymentParams(Object(WC_Order))
+#2 /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/class-wc-gateway-cardinity.php(240): WC_Cardinity_Gateway->process_direct_payment(18)
+#3 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(956): WC_Cardinity_Gateway->process_payment(18)
+#4 /var/www/html/wcommerce/wp-content/plugins/woocommerce/includes/class-wc-checkout.php(1159): WC_C in /var/www/html/wcommerce/wp-content/plugins/cardinity-free-payment-gateway-for-woocommerce/vendor/cardinity/cardinity-sdk-php/src/Method/Payment/ThreeDS2Data.php on line 55
+

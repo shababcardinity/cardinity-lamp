@@ -1,0 +1,2032 @@
+2020-10-22 14:38:09 - (Action::execute) - ccf2891c5a5729aa873fa7ae2d
+2020-10-22 14:38:09 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [OCSESSID] => ccf2891c5a5729aa873fa7ae2d
+    [__atuvc] => 13|43
+    [__atuvs] => 5f91921c36b79381003
+)
+
+2020-10-22 14:39:19 - (Action::execute) - ccf2891c5a5729aa873fa7ae2d
+2020-10-22 14:39:19 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [OCSESSID] => ccf2891c5a5729aa873fa7ae2d
+    [__atuvc] => 13|43
+    [__atuvs] => 5f91921c36b79381003
+)
+
+2020-10-22 14:40:40 - (Action::execute) - ccf2891c5a5729aa873fa7ae2d
+2020-10-22 14:40:40 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [OCSESSID] => ccf2891c5a5729aa873fa7ae2d
+    [__atuvc] => 13|43
+    [__atuvs] => 5f91921c36b79381003
+)
+
+2020-10-23 5:16:41 - (Action::execute) - b187b75795a17c8ed3b2b82dff
+2020-10-23 5:16:41 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 9|43
+    [cardinitySessionId] => 5d07714184a665b99b54922b61682f3a
+    [cardinityOrderSession] => YToxMzp7czo4OiJsYW5ndWFnZSI7czo1OiJlbi1nYiI7czo4OiJjdXJyZW5jeSI7czozOiJFVVIiO3M6NzoiYWNjb3VudCI7czo1OiJndWVzdCI7czo1OiJndWVzdCI7YTo4OntzOjE3OiJjdXN0b21lcl9ncm91cF9pZCI7czoxOiIxIjtzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFzZGYiO3M6NToiZW1haWwiO3M6MTM6ImFzZGZAYXNkZi5jb20iO3M6OToidGVsZXBob25lIjtzOjg6IjEyMzEyMzEyIjtzOjM6ImZheCI7czowOiIiO3M6MTI6ImN1c3RvbV9maWVsZCI7YTowOnt9czoxNjoic2hpcHBpbmdfYWRkcmVzcyI7czoxOiIxIjt9czoxNToicGF5bWVudF9hZGRyZXNzIjthOjE2OntzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFzZGYiO3M6NzoiY29tcGFueSI7czowOiIiO3M6OToiYWRkcmVzc18xIjtzOjQ6ImFzZGYiO3M6OToiYWRkcmVzc18yIjtzOjA6IiI7czo4OiJwb3N0Y29kZSI7czo1OiIyMzExMiI7czo0OiJjaXR5IjtzOjQ6ImFzZGYiO3M6MTA6ImNvdW50cnlfaWQiO3M6MzoiMjIyIjtzOjc6InpvbmVfaWQiO3M6NDoiMzUxMyI7czo3OiJjb3VudHJ5IjtzOjE0OiJVbml0ZWQgS2luZ2RvbSI7czoxMDoiaXNvX2NvZGVfMiI7czoyOiJHQiI7czoxMDoiaXNvX2NvZGVfMyI7czozOiJHQlIiO3M6MTQ6ImFkZHJlc3NfZm9ybWF0IjtzOjA6IiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e31zOjQ6InpvbmUiO3M6ODoiQWJlcmRlZW4iO3M6OToiem9uZV9jb2RlIjtzOjM6IkFCTiI7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO2E6MTY6e3M6OToiZmlyc3RuYW1lIjtzOjQ6ImFzZGYiO3M6ODoibGFzdG5hbWUiO3M6NDoiYXNkZiI7czo3OiJjb21wYW55IjtzOjA6IiI7czo5OiJhZGRyZXNzXzEiO3M6NDoiYXNkZiI7czo5OiJhZGRyZXNzXzIiO3M6MDoiIjtzOjg6InBvc3Rjb2RlIjtzOjU6IjIzMTEyIjtzOjQ6ImNpdHkiO3M6NDoiYXNkZiI7czoxMDoiY291bnRyeV9pZCI7czozOiIyMjIiO3M6Nzoiem9uZV9pZCI7czo0OiIzNTEzIjtzOjc6ImNvdW50cnkiO3M6MTQ6IlVuaXRlZCBLaW5nZG9tIjtzOjEwOiJpc29fY29kZV8yIjtzOjI6IkdCIjtzOjEwOiJpc29fY29kZV8zIjtzOjM6IkdCUiI7czoxNDoiYWRkcmVzc19mb3JtYXQiO3M6MDoiIjtzOjQ6InpvbmUiO3M6ODoiQWJlcmRlZW4iO3M6OToiem9uZV9jb2RlIjtzOjM6IkFCTiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e319czo3OiJjb21tZW50IjtzOjA6IiI7czo4OiJvcmRlcl9pZCI7aToyNzg7czoxNjoic2hpcHBpbmdfbWV0aG9kcyI7YToxOntzOjQ6ImZsYXQiO2E6NDp7czo1OiJ0aXRsZSI7czo5OiJGbGF0IFJhdGUiO3M6NToicXVvdGUiO2E6MTp7czo0OiJmbGF0IjthOjU6e3M6NDoiY29kZSI7czo5OiJmbGF0LmZsYXQiO3M6NToidGl0bGUiO3M6MTg6IkZsYXQgU2hpcHBpbmcgUmF0ZSI7czo0OiJjb3N0IjtzOjQ6IjUuMDAiO3M6MTI6InRheF9jbGFzc19pZCI7czoxOiI5IjtzOjQ6InRleHQiO3M6NzoiOC4wMOKCrCI7fX1zOjEwOiJzb3J0X29yZGVyIjtzOjE6IjEiO3M6NToiZXJyb3IiO2I6MDt9fXM6MTU6InNoaXBwaW5nX21ldGhvZCI7YTo1OntzOjQ6ImNvZGUiO3M6OToiZmxhdC5mbGF0IjtzOjU6InRpdGxlIjtzOjE4OiJGbGF0IFNoaXBwaW5nIFJhdGUiO3M6NDoiY29zdCI7czo0OiI1LjAwIjtzOjEyOiJ0YXhfY2xhc3NfaWQiO3M6MToiOSI7czo0OiJ0ZXh0IjtzOjc6IjguMDDigqwiO31zOjE1OiJwYXltZW50X21ldGhvZHMiO2E6Mjp7czo5OiJjYXJkaW5pdHkiO2E6NDp7czo0OiJjb2RlIjtzOjk6ImNhcmRpbml0eSI7czo1OiJ0aXRsZSI7czozNjoiQ3JlZGl0IENhcmQgLyBEZWJpdCBDYXJkIChDYXJkaW5pdHkpIjtzOjU6InRlcm1zIjtzOjA6IiI7czoxMDoic29ydF9vcmRlciI7czowOiIiO31zOjM6ImNvZCI7YTo0OntzOjQ6ImNvZGUiO3M6MzoiY29kIjtzOjU6InRpdGxlIjtzOjE2OiJDYXNoIE9uIERlbGl2ZXJ5IjtzOjU6InRlcm1zIjtzOjA6IiI7czoxMDoic29ydF9vcmRlciI7czoxOiI1Ijt9fXM6MTQ6InBheW1lbnRfbWV0aG9kIjthOjQ6e3M6NDoiY29kZSI7czo5OiJjYXJkaW5pdHkiO3M6NToidGl0bGUiO3M6MzY6IkNyZWRpdCBDYXJkIC8gRGViaXQgQ2FyZCAoQ2FyZGluaXR5KSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MDoiIjt9czo0OiJzaWduIjtzOjY0OiIyNWZjNTM4MjM1Y2RjODAzZGNhYjMwZTU5MDcxMWMxMDRjOTU3NWJjNDdiYTJkNGNiYWY0ZmM0ZGJhZThiNDEzIjt9
+    [pma_lang] => en
+    [pmaUser-1] => {"iv":"m1XtUJXZt7ofKAxi7md4dg==","mac":"40a2ba2e5ae92e03ffe87763ea24e664d2bd0d2b","payload":"uXpLMla9KVMGzZQNjeyckA=="}
+    [PHPSESSID] => efea4e701ae7f8436fe90f44742c1fe4
+    [default] => 5d07714184a665b99b54922b61682f3a
+    [phpMyAdmin] => 38a947df9fb2da3a0f2bf4b8ec2906ab
+    [pmaAuth-1] => {"iv":"w+4R\/1CruROh\/1h+2Ay32Q==","mac":"c19448bb28e832f887d044c0c5a571ec4228007e","payload":"8yXz3KrC4HWi48hgY1oIzD\/Acj9l5ipV51wSajkI5u4="}
+    [OCSESSID] => b187b75795a17c8ed3b2b82dff
+    [__atuvs] => 5f9267195b6bb1bf001
+)
+
+2020-10-23 5:18:58 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:18:58 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 2|43
+    [__atuvs] => 5f9267ae33dc56e4001
+)
+
+2020-10-23 5:19:29 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:19:29 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 2|43
+    [__atuvs] => 5f9267ae33dc56e4001
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:19:31 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 5:19:31 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 3b1c44b8-fb6c-4006-bd98-209bf3869154
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T05:19:29Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 13
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2027
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Tead
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 5:28:21 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:28:21 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 4|43
+    [__atuvs] => 5f9267ae33dc56e4003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:29:09 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 5:29:09 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => b3769aa6-1125-48aa-8a58-d302ed539cd4
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T05:29:08.729Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 14
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 5:30:46 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:30:46 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 6|43
+    [__atuvs] => 5f9267ae33dc56e4005
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:30:51 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 5:30:51 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 02ac8aed-f807-4077-9b02-6cb3b009a66b
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T05:30:50.921Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 15
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 5:35:28 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:35:28 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 7|43
+    [__atuvs] => 5f9267ae33dc56e4006
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:35:52 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"929e6447-2414-4bc2-8fb5-281792c39388","amount":"199.60","currency":"EUR","created":"2020-10-23T05:35:51.537Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"16","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 5:35:52 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 5:35:52 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 5:35:52 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 5:37:05 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:37:05 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 7|43
+    [__atuvs] => 5f9267ae33dc56e4006
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:37:45 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 5:37:45 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => c94f1705-7fcb-424f-80f8-dc6f082c0ae5
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T05:37:45.218Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 17
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 5:39:18 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:39:18 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 9|43
+    [__atuvs] => 5f9267ae33dc56e4008
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:39:23 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"d870f994-698b-43c2-9571-fd914fc14ee7","amount":"392.93","currency":"EUR","created":"2020-10-23T05:39:23.383Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"18","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 5:39:23 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 5:39:23 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 5:39:23 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 5:40:15 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:40:15 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 10|43
+    [__atuvs] => 5f9267ae33dc56e4009
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:40:20 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"91c0480b-0f07-49ac-bd22-d07a5b47ae1a","amount":"199.60","currency":"EUR","created":"2020-10-23T05:40:19.733Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"19","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 5:40:20 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 5:40:20 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 5:40:20 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 5:44:45 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:44:45 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 11|43
+    [__atuvs] => 5f9267ae33dc56e400a
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:44:50 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"cf5c7f45-bcd3-48ac-8fb7-8adea4fbc666","amount":"296.26","currency":"EUR","created":"2020-10-23T05:44:50.432Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"20","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 5:44:50 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 5:44:50 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 5:44:50 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 5:48:22 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 5:48:22 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 11|43
+    [__atuvs] => 5f9267ae33dc56e400a
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 5:48:25 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 5:48:25 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => c7a7ee01-516e-4430-8ee1-94e52bab6e21
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T05:48:25.329Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 21
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 6:01:51 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:01:51 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 12|43
+    [__atuvs] => 5f9267ae33dc56e400b
+)
+
+2020-10-23 6:01:56 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"cc4e2482-49a4-404b-8367-99773eb4f0f3","amount":"199.60","currency":"EUR","created":"2020-10-23T06:01:55.614Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"22","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 6:01:56 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 6:01:56 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 6:01:56 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 6:02:03 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:02:03 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 12|43
+    [__atuvs] => 5f9267ae33dc56e400b
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:02:06 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 6:02:06 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 7ff3b112-e9fd-4996-beff-647d191b44f3
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T06:02:06.32Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 23
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 6:04:28 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:04:28 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 12|43
+    [__atuvs] => 5f9267ae33dc56e400b
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:05:14 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:05:14 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 12|43
+    [__atuvs] => 5f9267ae33dc56e400b
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:05:16 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 6:05:16 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 680524a5-49cd-4e96-97bb-0c3b098f6af9
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T06:05:14Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 24
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2024
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 11
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox ThreeDS
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 6:07:01 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:07:01 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 13|43
+    [__atuvs] => 5f9267ae33dc56e400c
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:07:06 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:07:06 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 13|43
+    [__atuvs] => 5f9267ae33dc56e400c
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:07:08 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 6:07:08 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 70a4575b-49fd-44ee-8c91-a49c39465fbd
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T06:07:06Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 25
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 6:09:26 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:09:26 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 14|43
+    [__atuvs] => 5f9267ae33dc56e400d
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:09:32 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:09:32 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 14|43
+    [__atuvs] => 5f9267ae33dc56e400d
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:09:33 - (ModelExtensionPaymentCardinity::finalizePayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":382:{{"id":"da5ee6e3-2c43-4b1b-8b8f-280b6c117e84","amount":"102.94","currency":"EUR","created":"2020-10-23T06:09:32Z","type":"purchase","live":false,"status":"declined","error":"33333: 3D Secure Authorization Failed.","order_id":"26","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"Visa","pan":"0000","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 6:09:33 - (ModelExtensionPaymentCardinity::finalizePayment) - status: 33333: 3D Secure Authorization Failed.;
+2020-10-23 6:09:33 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 6:09:33 - (ControllerStartupRouter::index) - Error finalizing payment.
+2020-10-23 6:12:14 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 6:12:14 - (Action::execute) - Array
+(
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 14|43
+    [__atuvs] => 5f9267ae33dc56e400d
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 6:12:17 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 6:12:17 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 92591a48-3377-4c8d-9399-aaac8a08f496
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T06:12:16.535Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 27
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 7:42:14 - (Action::execute) - cf3ab50fbed038ae3ab78207bb
+2020-10-23 7:42:14 - (Action::execute) - Array
+(
+    [OCSESSID] => cf3ab50fbed038ae3ab78207bb
+    [language] => en-gb
+    [__atuvc] => 1|43
+    [__atuvs] => 5f9284016ed15233000
+    [currency] => EUR
+)
+
+2020-10-23 8:13:14 - (Action::execute) - cf3ab50fbed038ae3ab78207bb
+2020-10-23 8:13:14 - (Action::execute) - Array
+(
+    [OCSESSID] => cf3ab50fbed038ae3ab78207bb
+    [language] => en-gb
+    [__atuvc] => 1|43
+    [currency] => EUR
+)
+
+2020-10-23 8:15:20 - (Action::execute) - 11223dddc37e63043de953a8fb
+2020-10-23 8:15:20 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [cardinitySessionId] => 513e37703183d043f15d825341c7c495
+    [cardinityOrderSession] => YToxMzp7czo4OiJsYW5ndWFnZSI7czo1OiJlbi1nYiI7czo4OiJjdXJyZW5jeSI7czozOiJFVVIiO3M6NzoiYWNjb3VudCI7czo1OiJndWVzdCI7czoxNToicGF5bWVudF9hZGRyZXNzIjthOjE2OntzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NzoiY29tcGFueSI7czowOiIiO3M6OToiYWRkcmVzc18xIjtzOjg6ImFzZGZhc2ZkIjtzOjk6ImFkZHJlc3NfMiI7czowOiIiO3M6ODoicG9zdGNvZGUiO3M6NToiMjIxMTEiO3M6NDoiY2l0eSI7czo1OiJhZGZhZCI7czoxMDoiY291bnRyeV9pZCI7czozOiIyMjIiO3M6Nzoiem9uZV9pZCI7czo0OiIzNTI4IjtzOjc6ImNvdW50cnkiO3M6MTQ6IlVuaXRlZCBLaW5nZG9tIjtzOjEwOiJpc29fY29kZV8yIjtzOjI6IkdCIjtzOjEwOiJpc29fY29kZV8zIjtzOjM6IkdCUiI7czoxNDoiYWRkcmVzc19mb3JtYXQiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO2E6MTY6e3M6OToiZmlyc3RuYW1lIjtzOjQ6ImFzZGYiO3M6ODoibGFzdG5hbWUiO3M6NDoiYWRmYSI7czo3OiJjb21wYW55IjtzOjA6IiI7czo5OiJhZGRyZXNzXzEiO3M6ODoiYXNkZmFzZmQiO3M6OToiYWRkcmVzc18yIjtzOjA6IiI7czo4OiJwb3N0Y29kZSI7czo1OiIyMjExMSI7czo0OiJjaXR5IjtzOjU6ImFkZmFkIjtzOjEwOiJjb3VudHJ5X2lkIjtzOjM6IjIyMiI7czo3OiJ6b25lX2lkIjtzOjQ6IjM1MjgiO3M6NzoiY291bnRyeSI7czoxNDoiVW5pdGVkIEtpbmdkb20iO3M6MTA6Imlzb19jb2RlXzIiO3M6MjoiR0IiO3M6MTA6Imlzb19jb2RlXzMiO3M6MzoiR0JSIjtzOjE0OiJhZGRyZXNzX2Zvcm1hdCI7czowOiIiO3M6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e319czo1OiJndWVzdCI7YTo4OntzOjE3OiJjdXN0b21lcl9ncm91cF9pZCI7czoxOiIxIjtzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NToiZW1haWwiO3M6MTM6ImFzZGZAYXNkZi5jb20iO3M6OToidGVsZXBob25lIjtzOjY6IjEyMzEyMyI7czozOiJmYXgiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO3M6MToiMSI7fXM6MTY6InNoaXBwaW5nX21ldGhvZHMiO2E6MTp7czo0OiJmbGF0IjthOjQ6e3M6NToidGl0bGUiO3M6OToiRmxhdCBSYXRlIjtzOjU6InF1b3RlIjthOjE6e3M6NDoiZmxhdCI7YTo1OntzOjQ6ImNvZGUiO3M6OToiZmxhdC5mbGF0IjtzOjU6InRpdGxlIjtzOjE4OiJGbGF0IFNoaXBwaW5nIFJhdGUiO3M6NDoiY29zdCI7czo0OiI1LjAwIjtzOjEyOiJ0YXhfY2xhc3NfaWQiO3M6MToiOSI7czo0OiJ0ZXh0IjtzOjc6IjguMDDigqwiO319czoxMDoic29ydF9vcmRlciI7czoxOiIxIjtzOjU6ImVycm9yIjtiOjA7fX1zOjE1OiJzaGlwcGluZ19tZXRob2QiO2E6NTp7czo0OiJjb2RlIjtzOjk6ImZsYXQuZmxhdCI7czo1OiJ0aXRsZSI7czoxODoiRmxhdCBTaGlwcGluZyBSYXRlIjtzOjQ6ImNvc3QiO3M6NDoiNS4wMCI7czoxMjoidGF4X2NsYXNzX2lkIjtzOjE6IjkiO3M6NDoidGV4dCI7czo3OiI4LjAw4oKsIjt9czo3OiJjb21tZW50IjtzOjA6IiI7czoxNToicGF5bWVudF9tZXRob2RzIjthOjI6e3M6OToiY2FyZGluaXR5IjthOjQ6e3M6NDoiY29kZSI7czo5OiJjYXJkaW5pdHkiO3M6NToidGl0bGUiO3M6MzY6IkNyZWRpdCBDYXJkIC8gRGViaXQgQ2FyZCAoQ2FyZGluaXR5KSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MDoiIjt9czozOiJjb2QiO2E6NDp7czo0OiJjb2RlIjtzOjM6ImNvZCI7czo1OiJ0aXRsZSI7czoxNjoiQ2FzaCBPbiBEZWxpdmVyeSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MToiNSI7fX1zOjE0OiJwYXltZW50X21ldGhvZCI7YTo0OntzOjQ6ImNvZGUiO3M6OToiY2FyZGluaXR5IjtzOjU6InRpdGxlIjtzOjM2OiJDcmVkaXQgQ2FyZCAvIERlYml0IENhcmQgKENhcmRpbml0eSkiO3M6NToidGVybXMiO3M6MDoiIjtzOjEwOiJzb3J0X29yZGVyIjtzOjA6IiI7fXM6ODoib3JkZXJfaWQiO2k6MjczO3M6NDoic2lnbiI7czo2NDoiYzIwZGYyY2FmZDEwY2FmNzQ4YWFhODM1NTE5YjJkYzQ1YjllNGU1MWM2NDdlOTM5ODEzMjUyYzJiY2NlYTAxOCI7fQ==
+    [currency] => EUR
+    [OCSESSID] => 11223dddc37e63043de953a8fb
+    [__atuvc] => 14|43
+    [__atuvs] => 5f9290fe89f2a77a000
+)
+
+2020-10-23 8:16:13 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 8:16:13 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-23T08:16:09Z
+    [currency] => EUR
+    [description] => OC30
+    [id] => 06adaaa7-3ce2-4b04-937d-da0632ad8afb
+    [live] => 
+    [order_id] => 030
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 70cf8b5bf69b4ec90fb5d59b7a6b7e3be1e1389752ebdcadfdc29be42df82794
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-23 8:58:25 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 8:58:25 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 15|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5000
+)
+
+2020-10-23 8:58:30 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 8:58:30 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => f38391b7-29f4-4446-9a9c-e88d8d13ff52
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T08:58:30.436Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 31
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 8:58:48 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 8:58:48 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 16|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5001
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 8:58:52 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 8:58:52 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 16|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5001
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 8:58:54 - (ModelExtensionPaymentCardinity::finalizePayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":382:{{"id":"d36abe74-43cb-4f71-b39d-f5a3da196969","amount":"102.94","currency":"EUR","created":"2020-10-23T08:58:52Z","type":"purchase","live":false,"status":"declined","error":"33333: 3D Secure Authorization Failed.","order_id":"32","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"Visa","pan":"0000","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 8:58:54 - (ModelExtensionPaymentCardinity::finalizePayment) - status: 33333: 3D Secure Authorization Failed.;
+2020-10-23 8:58:54 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 8:58:54 - (ControllerStartupRouter::index) - Error finalizing payment.
+2020-10-23 8:59:41 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 8:59:41 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 16|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5001
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 8:59:44 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 8:59:44 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 9caad3fa-67c8-4e47-908f-7bc6052e9dc5
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T08:59:43.935Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 33
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 9:00:02 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 9:00:02 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 17|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5002
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 9:00:07 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 9:00:07 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 17|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5002
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 9:00:09 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 9:00:09 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => c3b04269-75a7-44a3-a12e-8666e581d8f1
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T09:00:07Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 34
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 9:00:27 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 9:00:27 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 18|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 9:00:32 - (ModelExtensionPaymentCardinity::createPayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":376:{{"id":"3d0efac2-e0f3-4dcb-b68c-35f8cbacce14","amount":"199.60","currency":"EUR","created":"2020-10-23T09:00:32.234Z","type":"purchase","live":false,"status":"declined","error":"CRD-TEST: Do Not Honor","order_id":"35","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"MasterCard","pan":"4444","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 9:00:32 - (ModelExtensionPaymentCardinity::createPayment) - status: CRD-TEST: Do Not Honor;
+2020-10-23 9:00:32 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 9:00:32 - (ControllerStartupRouter::index) - Payment was declined by issuing bank.
+2020-10-23 9:00:39 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 9:00:39 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 18|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 9:00:42 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 9:00:42 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => e1654ee5-1609-4b26-91bd-18b82bd236d1
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T09:00:42.533Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 36
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 9:00:59 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-23 9:00:59 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 19|43
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [__atuvs] => 5f929b2942ea97f5004
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-23 9:01:04 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 9:01:04 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 3353627f-9a7f-410f-bfd0-d67b9eecba4d
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T09:01:03.72Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 37
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2030
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 8
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Text
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-23 9:03:10 - (Action::execute) - d79ba4834822aad41945bb5278
+2020-10-23 9:03:10 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [cardinityOrderSession] => YToxMzp7czo4OiJsYW5ndWFnZSI7czo1OiJlbi1nYiI7czo4OiJjdXJyZW5jeSI7czozOiJFVVIiO3M6NzoiYWNjb3VudCI7czo1OiJndWVzdCI7czoxNToicGF5bWVudF9hZGRyZXNzIjthOjE2OntzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NzoiY29tcGFueSI7czowOiIiO3M6OToiYWRkcmVzc18xIjtzOjg6ImFzZGZhc2ZkIjtzOjk6ImFkZHJlc3NfMiI7czowOiIiO3M6ODoicG9zdGNvZGUiO3M6NToiMjIxMTEiO3M6NDoiY2l0eSI7czo1OiJhZGZhZCI7czoxMDoiY291bnRyeV9pZCI7czozOiIyMjIiO3M6Nzoiem9uZV9pZCI7czo0OiIzNTI4IjtzOjc6ImNvdW50cnkiO3M6MTQ6IlVuaXRlZCBLaW5nZG9tIjtzOjEwOiJpc29fY29kZV8yIjtzOjI6IkdCIjtzOjEwOiJpc29fY29kZV8zIjtzOjM6IkdCUiI7czoxNDoiYWRkcmVzc19mb3JtYXQiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO2E6MTY6e3M6OToiZmlyc3RuYW1lIjtzOjQ6ImFzZGYiO3M6ODoibGFzdG5hbWUiO3M6NDoiYWRmYSI7czo3OiJjb21wYW55IjtzOjA6IiI7czo5OiJhZGRyZXNzXzEiO3M6ODoiYXNkZmFzZmQiO3M6OToiYWRkcmVzc18yIjtzOjA6IiI7czo4OiJwb3N0Y29kZSI7czo1OiIyMjExMSI7czo0OiJjaXR5IjtzOjU6ImFkZmFkIjtzOjEwOiJjb3VudHJ5X2lkIjtzOjM6IjIyMiI7czo3OiJ6b25lX2lkIjtzOjQ6IjM1MjgiO3M6NzoiY291bnRyeSI7czoxNDoiVW5pdGVkIEtpbmdkb20iO3M6MTA6Imlzb19jb2RlXzIiO3M6MjoiR0IiO3M6MTA6Imlzb19jb2RlXzMiO3M6MzoiR0JSIjtzOjE0OiJhZGRyZXNzX2Zvcm1hdCI7czowOiIiO3M6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e319czo1OiJndWVzdCI7YTo4OntzOjE3OiJjdXN0b21lcl9ncm91cF9pZCI7czoxOiIxIjtzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NToiZW1haWwiO3M6MTM6ImFzZGZAYXNkZi5jb20iO3M6OToidGVsZXBob25lIjtzOjY6IjEyMzEyMyI7czozOiJmYXgiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO3M6MToiMSI7fXM6MTY6InNoaXBwaW5nX21ldGhvZHMiO2E6MTp7czo0OiJmbGF0IjthOjQ6e3M6NToidGl0bGUiO3M6OToiRmxhdCBSYXRlIjtzOjU6InF1b3RlIjthOjE6e3M6NDoiZmxhdCI7YTo1OntzOjQ6ImNvZGUiO3M6OToiZmxhdC5mbGF0IjtzOjU6InRpdGxlIjtzOjE4OiJGbGF0IFNoaXBwaW5nIFJhdGUiO3M6NDoiY29zdCI7czo0OiI1LjAwIjtzOjEyOiJ0YXhfY2xhc3NfaWQiO3M6MToiOSI7czo0OiJ0ZXh0IjtzOjc6IjguMDDigqwiO319czoxMDoic29ydF9vcmRlciI7czoxOiIxIjtzOjU6ImVycm9yIjtiOjA7fX1zOjE1OiJzaGlwcGluZ19tZXRob2QiO2E6NTp7czo0OiJjb2RlIjtzOjk6ImZsYXQuZmxhdCI7czo1OiJ0aXRsZSI7czoxODoiRmxhdCBTaGlwcGluZyBSYXRlIjtzOjQ6ImNvc3QiO3M6NDoiNS4wMCI7czoxMjoidGF4X2NsYXNzX2lkIjtzOjE6IjkiO3M6NDoidGV4dCI7czo3OiI4LjAw4oKsIjt9czo3OiJjb21tZW50IjtzOjA6IiI7czoxNToicGF5bWVudF9tZXRob2RzIjthOjI6e3M6OToiY2FyZGluaXR5IjthOjQ6e3M6NDoiY29kZSI7czo5OiJjYXJkaW5pdHkiO3M6NToidGl0bGUiO3M6MzY6IkNyZWRpdCBDYXJkIC8gRGViaXQgQ2FyZCAoQ2FyZGluaXR5KSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MDoiIjt9czozOiJjb2QiO2E6NDp7czo0OiJjb2RlIjtzOjM6ImNvZCI7czo1OiJ0aXRsZSI7czoxNjoiQ2FzaCBPbiBEZWxpdmVyeSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MToiNSI7fX1zOjE0OiJwYXltZW50X21ldGhvZCI7YTo0OntzOjQ6ImNvZGUiO3M6OToiY2FyZGluaXR5IjtzOjU6InRpdGxlIjtzOjM2OiJDcmVkaXQgQ2FyZCAvIERlYml0IENhcmQgKENhcmRpbml0eSkiO3M6NToidGVybXMiO3M6MDoiIjtzOjEwOiJzb3J0X29yZGVyIjtzOjA6IiI7fXM6ODoib3JkZXJfaWQiO2k6MjczO3M6NDoic2lnbiI7czo2NDoiYzIwZGYyY2FmZDEwY2FmNzQ4YWFhODM1NTE5YjJkYzQ1YjllNGU1MWM2NDdlOTM5ODEzMjUyYzJiY2NlYTAxOCI7fQ==
+    [currency] => EUR
+    [OCSESSID] => d79ba4834822aad41945bb5278
+    [__atuvc] => 16|43
+    [__atuvs] => 5f9299f1dc0b25d7001
+)
+
+2020-10-23 9:03:14 - (Action::execute) - d79ba4834822aad41945bb5278
+2020-10-23 9:03:14 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [cardinityOrderSession] => YToxMzp7czo4OiJsYW5ndWFnZSI7czo1OiJlbi1nYiI7czo4OiJjdXJyZW5jeSI7czozOiJFVVIiO3M6NzoiYWNjb3VudCI7czo1OiJndWVzdCI7czoxNToicGF5bWVudF9hZGRyZXNzIjthOjE2OntzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NzoiY29tcGFueSI7czowOiIiO3M6OToiYWRkcmVzc18xIjtzOjg6ImFzZGZhc2ZkIjtzOjk6ImFkZHJlc3NfMiI7czowOiIiO3M6ODoicG9zdGNvZGUiO3M6NToiMjIxMTEiO3M6NDoiY2l0eSI7czo1OiJhZGZhZCI7czoxMDoiY291bnRyeV9pZCI7czozOiIyMjIiO3M6Nzoiem9uZV9pZCI7czo0OiIzNTI4IjtzOjc6ImNvdW50cnkiO3M6MTQ6IlVuaXRlZCBLaW5nZG9tIjtzOjEwOiJpc29fY29kZV8yIjtzOjI6IkdCIjtzOjEwOiJpc29fY29kZV8zIjtzOjM6IkdCUiI7czoxNDoiYWRkcmVzc19mb3JtYXQiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO2E6MTY6e3M6OToiZmlyc3RuYW1lIjtzOjQ6ImFzZGYiO3M6ODoibGFzdG5hbWUiO3M6NDoiYWRmYSI7czo3OiJjb21wYW55IjtzOjA6IiI7czo5OiJhZGRyZXNzXzEiO3M6ODoiYXNkZmFzZmQiO3M6OToiYWRkcmVzc18yIjtzOjA6IiI7czo4OiJwb3N0Y29kZSI7czo1OiIyMjExMSI7czo0OiJjaXR5IjtzOjU6ImFkZmFkIjtzOjEwOiJjb3VudHJ5X2lkIjtzOjM6IjIyMiI7czo3OiJ6b25lX2lkIjtzOjQ6IjM1MjgiO3M6NzoiY291bnRyeSI7czoxNDoiVW5pdGVkIEtpbmdkb20iO3M6MTA6Imlzb19jb2RlXzIiO3M6MjoiR0IiO3M6MTA6Imlzb19jb2RlXzMiO3M6MzoiR0JSIjtzOjE0OiJhZGRyZXNzX2Zvcm1hdCI7czowOiIiO3M6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e319czo1OiJndWVzdCI7YTo4OntzOjE3OiJjdXN0b21lcl9ncm91cF9pZCI7czoxOiIxIjtzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NToiZW1haWwiO3M6MTM6ImFzZGZAYXNkZi5jb20iO3M6OToidGVsZXBob25lIjtzOjY6IjEyMzEyMyI7czozOiJmYXgiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO3M6MToiMSI7fXM6MTY6InNoaXBwaW5nX21ldGhvZHMiO2E6MTp7czo0OiJmbGF0IjthOjQ6e3M6NToidGl0bGUiO3M6OToiRmxhdCBSYXRlIjtzOjU6InF1b3RlIjthOjE6e3M6NDoiZmxhdCI7YTo1OntzOjQ6ImNvZGUiO3M6OToiZmxhdC5mbGF0IjtzOjU6InRpdGxlIjtzOjE4OiJGbGF0IFNoaXBwaW5nIFJhdGUiO3M6NDoiY29zdCI7czo0OiI1LjAwIjtzOjEyOiJ0YXhfY2xhc3NfaWQiO3M6MToiOSI7czo0OiJ0ZXh0IjtzOjc6IjguMDDigqwiO319czoxMDoic29ydF9vcmRlciI7czoxOiIxIjtzOjU6ImVycm9yIjtiOjA7fX1zOjE1OiJzaGlwcGluZ19tZXRob2QiO2E6NTp7czo0OiJjb2RlIjtzOjk6ImZsYXQuZmxhdCI7czo1OiJ0aXRsZSI7czoxODoiRmxhdCBTaGlwcGluZyBSYXRlIjtzOjQ6ImNvc3QiO3M6NDoiNS4wMCI7czoxMjoidGF4X2NsYXNzX2lkIjtzOjE6IjkiO3M6NDoidGV4dCI7czo3OiI4LjAw4oKsIjt9czo3OiJjb21tZW50IjtzOjA6IiI7czoxNToicGF5bWVudF9tZXRob2RzIjthOjI6e3M6OToiY2FyZGluaXR5IjthOjQ6e3M6NDoiY29kZSI7czo5OiJjYXJkaW5pdHkiO3M6NToidGl0bGUiO3M6MzY6IkNyZWRpdCBDYXJkIC8gRGViaXQgQ2FyZCAoQ2FyZGluaXR5KSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MDoiIjt9czozOiJjb2QiO2E6NDp7czo0OiJjb2RlIjtzOjM6ImNvZCI7czo1OiJ0aXRsZSI7czoxNjoiQ2FzaCBPbiBEZWxpdmVyeSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MToiNSI7fX1zOjE0OiJwYXltZW50X21ldGhvZCI7YTo0OntzOjQ6ImNvZGUiO3M6OToiY2FyZGluaXR5IjtzOjU6InRpdGxlIjtzOjM2OiJDcmVkaXQgQ2FyZCAvIERlYml0IENhcmQgKENhcmRpbml0eSkiO3M6NToidGVybXMiO3M6MDoiIjtzOjEwOiJzb3J0X29yZGVyIjtzOjA6IiI7fXM6ODoib3JkZXJfaWQiO2k6MjczO3M6NDoic2lnbiI7czo2NDoiYzIwZGYyY2FmZDEwY2FmNzQ4YWFhODM1NTE5YjJkYzQ1YjllNGU1MWM2NDdlOTM5ODEzMjUyYzJiY2NlYTAxOCI7fQ==
+    [currency] => EUR
+    [OCSESSID] => d79ba4834822aad41945bb5278
+    [__atuvc] => 16|43
+    [__atuvs] => 5f9299f1dc0b25d7001
+    [cardinitySessionId] => d79ba4834822aad41945bb5278
+)
+
+2020-10-23 9:03:16 - (ModelExtensionPaymentCardinity::finalizePayment) - Request Failed – Your request was valid but it was declined. Response data: C:32:"Cardinity\Method\Payment\Payment":382:{{"id":"cb303909-50a8-4fcd-ac6a-c197c92265f3","amount":"102.94","currency":"EUR","created":"2020-10-23T09:03:14Z","type":"purchase","live":false,"status":"declined","error":"33333: 3D Secure Authorization Failed.","order_id":"38","country":"GB","payment_method":"card","payment_instrument":{"card_brand":"Visa","pan":"0000","exp_year":2028,"exp_month":10,"holder":"Firefox Decline"}}}
+2020-10-23 9:03:16 - (ModelExtensionPaymentCardinity::finalizePayment) - status: 33333: 3D Secure Authorization Failed.;
+2020-10-23 9:03:16 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-23 9:03:16 - (ControllerStartupRouter::index) - Error finalizing payment.
+2020-10-23 9:03:23 - (Action::execute) - d79ba4834822aad41945bb5278
+2020-10-23 9:03:23 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [cardinityOrderSession] => YToxMzp7czo4OiJsYW5ndWFnZSI7czo1OiJlbi1nYiI7czo4OiJjdXJyZW5jeSI7czozOiJFVVIiO3M6NzoiYWNjb3VudCI7czo1OiJndWVzdCI7czoxNToicGF5bWVudF9hZGRyZXNzIjthOjE2OntzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NzoiY29tcGFueSI7czowOiIiO3M6OToiYWRkcmVzc18xIjtzOjg6ImFzZGZhc2ZkIjtzOjk6ImFkZHJlc3NfMiI7czowOiIiO3M6ODoicG9zdGNvZGUiO3M6NToiMjIxMTEiO3M6NDoiY2l0eSI7czo1OiJhZGZhZCI7czoxMDoiY291bnRyeV9pZCI7czozOiIyMjIiO3M6Nzoiem9uZV9pZCI7czo0OiIzNTI4IjtzOjc6ImNvdW50cnkiO3M6MTQ6IlVuaXRlZCBLaW5nZG9tIjtzOjEwOiJpc29fY29kZV8yIjtzOjI6IkdCIjtzOjEwOiJpc29fY29kZV8zIjtzOjM6IkdCUiI7czoxNDoiYWRkcmVzc19mb3JtYXQiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO2E6MTY6e3M6OToiZmlyc3RuYW1lIjtzOjQ6ImFzZGYiO3M6ODoibGFzdG5hbWUiO3M6NDoiYWRmYSI7czo3OiJjb21wYW55IjtzOjA6IiI7czo5OiJhZGRyZXNzXzEiO3M6ODoiYXNkZmFzZmQiO3M6OToiYWRkcmVzc18yIjtzOjA6IiI7czo4OiJwb3N0Y29kZSI7czo1OiIyMjExMSI7czo0OiJjaXR5IjtzOjU6ImFkZmFkIjtzOjEwOiJjb3VudHJ5X2lkIjtzOjM6IjIyMiI7czo3OiJ6b25lX2lkIjtzOjQ6IjM1MjgiO3M6NzoiY291bnRyeSI7czoxNDoiVW5pdGVkIEtpbmdkb20iO3M6MTA6Imlzb19jb2RlXzIiO3M6MjoiR0IiO3M6MTA6Imlzb19jb2RlXzMiO3M6MzoiR0JSIjtzOjE0OiJhZGRyZXNzX2Zvcm1hdCI7czowOiIiO3M6NDoiem9uZSI7czoxMDoiQ2VyZWRpZ2lvbiI7czo5OiJ6b25lX2NvZGUiO3M6NDoiQ0RHTiI7czoxMjoiY3VzdG9tX2ZpZWxkIjthOjA6e319czo1OiJndWVzdCI7YTo4OntzOjE3OiJjdXN0b21lcl9ncm91cF9pZCI7czoxOiIxIjtzOjk6ImZpcnN0bmFtZSI7czo0OiJhc2RmIjtzOjg6Imxhc3RuYW1lIjtzOjQ6ImFkZmEiO3M6NToiZW1haWwiO3M6MTM6ImFzZGZAYXNkZi5jb20iO3M6OToidGVsZXBob25lIjtzOjY6IjEyMzEyMyI7czozOiJmYXgiO3M6MDoiIjtzOjEyOiJjdXN0b21fZmllbGQiO2E6MDp7fXM6MTY6InNoaXBwaW5nX2FkZHJlc3MiO3M6MToiMSI7fXM6MTY6InNoaXBwaW5nX21ldGhvZHMiO2E6MTp7czo0OiJmbGF0IjthOjQ6e3M6NToidGl0bGUiO3M6OToiRmxhdCBSYXRlIjtzOjU6InF1b3RlIjthOjE6e3M6NDoiZmxhdCI7YTo1OntzOjQ6ImNvZGUiO3M6OToiZmxhdC5mbGF0IjtzOjU6InRpdGxlIjtzOjE4OiJGbGF0IFNoaXBwaW5nIFJhdGUiO3M6NDoiY29zdCI7czo0OiI1LjAwIjtzOjEyOiJ0YXhfY2xhc3NfaWQiO3M6MToiOSI7czo0OiJ0ZXh0IjtzOjc6IjguMDDigqwiO319czoxMDoic29ydF9vcmRlciI7czoxOiIxIjtzOjU6ImVycm9yIjtiOjA7fX1zOjE1OiJzaGlwcGluZ19tZXRob2QiO2E6NTp7czo0OiJjb2RlIjtzOjk6ImZsYXQuZmxhdCI7czo1OiJ0aXRsZSI7czoxODoiRmxhdCBTaGlwcGluZyBSYXRlIjtzOjQ6ImNvc3QiO3M6NDoiNS4wMCI7czoxMjoidGF4X2NsYXNzX2lkIjtzOjE6IjkiO3M6NDoidGV4dCI7czo3OiI4LjAw4oKsIjt9czo3OiJjb21tZW50IjtzOjA6IiI7czoxNToicGF5bWVudF9tZXRob2RzIjthOjI6e3M6OToiY2FyZGluaXR5IjthOjQ6e3M6NDoiY29kZSI7czo5OiJjYXJkaW5pdHkiO3M6NToidGl0bGUiO3M6MzY6IkNyZWRpdCBDYXJkIC8gRGViaXQgQ2FyZCAoQ2FyZGluaXR5KSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MDoiIjt9czozOiJjb2QiO2E6NDp7czo0OiJjb2RlIjtzOjM6ImNvZCI7czo1OiJ0aXRsZSI7czoxNjoiQ2FzaCBPbiBEZWxpdmVyeSI7czo1OiJ0ZXJtcyI7czowOiIiO3M6MTA6InNvcnRfb3JkZXIiO3M6MToiNSI7fX1zOjE0OiJwYXltZW50X21ldGhvZCI7YTo0OntzOjQ6ImNvZGUiO3M6OToiY2FyZGluaXR5IjtzOjU6InRpdGxlIjtzOjM2OiJDcmVkaXQgQ2FyZCAvIERlYml0IENhcmQgKENhcmRpbml0eSkiO3M6NToidGVybXMiO3M6MDoiIjtzOjEwOiJzb3J0X29yZGVyIjtzOjA6IiI7fXM6ODoib3JkZXJfaWQiO2k6MjczO3M6NDoic2lnbiI7czo2NDoiYzIwZGYyY2FmZDEwY2FmNzQ4YWFhODM1NTE5YjJkYzQ1YjllNGU1MWM2NDdlOTM5ODEzMjUyYzJiY2NlYTAxOCI7fQ==
+    [currency] => EUR
+    [OCSESSID] => d79ba4834822aad41945bb5278
+    [__atuvc] => 16|43
+    [__atuvs] => 5f9299f1dc0b25d7001
+    [cardinitySessionId] => d79ba4834822aad41945bb5278
+)
+
+2020-10-23 9:03:26 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-23 9:03:26 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => d452eff2-fa20-465d-8599-5993d0fb876c
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-23T09:03:26.119Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 39
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 4444
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2022
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Firefox Retry After Decline
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-26 11:14:36 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:14:36 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,2|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f001
+)
+
+2020-10-26 11:14:45 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:14:45 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,2|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f001
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:14:47 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:14:47 - (ControllerStartupRouter::index) - Cardinity\Method\Payment\Payment Object
+(
+    [id:Cardinity\Method\Payment\Payment:private] => 77bb1011-9427-4dc8-8f2d-0b1ad9c438fc
+    [amount:Cardinity\Method\Payment\Payment:private] => 102.94
+    [currency:Cardinity\Method\Payment\Payment:private] => EUR
+    [created:Cardinity\Method\Payment\Payment:private] => 2020-10-26T11:14:45Z
+    [type:Cardinity\Method\Payment\Payment:private] => purchase
+    [live:Cardinity\Method\Payment\Payment:private] => 
+    [settle:Cardinity\Method\Payment\Payment:private] => 
+    [status:Cardinity\Method\Payment\Payment:private] => approved
+    [error:Cardinity\Method\Payment\Payment:private] => 
+    [orderId:Cardinity\Method\Payment\Payment:private] => 40
+    [description:Cardinity\Method\Payment\Payment:private] => 
+    [country:Cardinity\Method\Payment\Payment:private] => GB
+    [paymentMethod:Cardinity\Method\Payment\Payment:private] => card
+    [paymentInstrument:Cardinity\Method\Payment\Payment:private] => Cardinity\Method\Payment\PaymentInstrumentCard Object
+        (
+            [cardBrand:Cardinity\Method\Payment\PaymentInstrumentCard:private] => MasterCard
+            [pan:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 5454
+            [expYear:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 2027
+            [expMonth:Cardinity\Method\Payment\PaymentInstrumentCard:private] => 1
+            [holder:Cardinity\Method\Payment\PaymentInstrumentCard:private] => Test
+        )
+
+    [authorizeData:Cardinity\Method\Payment\Payment:private] => 
+    [authorizationInformation:Cardinity\Method\Payment\Payment:private] => 
+)
+
+2020-10-26 11:15:55 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:15:55 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,3|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f002
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:16:13 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:16:13 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:16:10.736Z
+    [currency] => EUR
+    [description] => OC41
+    [id] => 66192996-3853-4ae9-a985-a61f85b0505f
+    [live] => 
+    [order_id] => 041
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => b3744aea536709e3d5779af5abec1c9366483edf9d1a1b1b277ecf8613587eed
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:27:11 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:27:11 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+)
+
+2020-10-26 11:28:01 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:28:01 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:27:58Z
+    [currency] => EUR
+    [description] => OC42
+    [id] => ac5bb8d3-c545-4358-94a3-2a68843fe4a8
+    [live] => 
+    [order_id] => 042
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => f3ef10501cba7d8214c66a0b228f2891a044c28e783479d4b60219caf5cac20d
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:28:29 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:28:29 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:29:39 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:29:39 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:29:49 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:29:49 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:29:45Z
+    [currency] => EUR
+    [description] => OC44
+    [id] => 437fc375-0129-4520-924c-cb2dc28fc0f8
+    [live] => 
+    [order_id] => 044
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => d1cfc4c4cc70c50795fefbab470273d78f2dab7e1bb06c286529dfbbac88440a
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:31:08 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:31:08 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:31:18 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:31:18 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:33:05 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:33:05 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:33:14 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:33:14 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:34:37 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:34:37 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:34:47 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:34:47 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:36:35 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:36:35 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:36:45 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:36:45 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:36:58 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:36:58 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:37:07 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:37:07 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:37:19 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:37:19 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:37:28 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:37:28 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:37:40 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:37:40 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:37:50 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:37:50 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:38:01 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:38:01 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:38:11 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:38:11 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:38:23 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:38:23 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:38:32 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:38:32 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:38:45 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:38:45 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:38:54 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:38:54 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:39:06 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:39:06 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:39:15 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:39:15 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:39:27 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:39:27 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:39:37 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:39:37 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:39:48 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:39:48 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:39:58 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:39:58 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:40:09 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:40:09 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:40:19 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:40:19 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:40:31 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:40:31 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:40:41 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:40:41 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:40:53 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:40:53 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:41:03 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:41:03 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:41:15 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:41:15 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:41:25 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:41:25 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:41:37 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:41:37 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:41:47 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:41:47 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:41:59 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:41:59 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:42:09 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:42:09 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:42:21 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:42:21 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:42:30 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:42:30 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:42:42 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:42:42 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:42:52 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:42:52 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:43:04 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:43:04 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:43:13 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:43:13 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:43:25 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:43:25 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:43:35 - (ControllerStartupRouter::index) - Payment failed, details below
+2020-10-26 11:43:35 - (ControllerStartupRouter::index) - Card was declined
+2020-10-26 11:43:49 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:43:49 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:43:59 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:43:59 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:43:55Z
+    [currency] => EUR
+    [description] => OC68
+    [id] => da981ce8-6c8f-4b4b-9c6d-503ceca5261c
+    [live] => 
+    [order_id] => 068
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 452252852ea1b1fa05e337d3df744f2d4b1daf60546bd85134852eff69f44e43
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:44:09 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:44:09 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:44:18 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:44:18 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:44:15Z
+    [currency] => EUR
+    [description] => OC69
+    [id] => 50df9c97-e2d2-4157-bae9-5847115d6304
+    [live] => 
+    [order_id] => 069
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => a5a11850f249c0301691472c727a4fedd41a0d425cf40ab6ff1fbda6a5208212
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:44:27 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:44:27 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:44:37 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:44:37 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:44:33Z
+    [currency] => EUR
+    [description] => OC70
+    [id] => 8053548f-4c98-4d5f-8a6b-7466fa92cb3f
+    [live] => 
+    [order_id] => 070
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => f2e9e87392b396aee16b417203ccde22d27861c5f47b936886c88650003c0205
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:44:47 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:44:47 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:44:56 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:44:56 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:44:53Z
+    [currency] => EUR
+    [description] => OC71
+    [id] => b6e13fb8-cb14-4086-a967-3db27a447db1
+    [live] => 
+    [order_id] => 071
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 108a502cd32f15a6c00901a01da85893d3b5a3fccb69957e5fa6824009cd9b7b
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:45:06 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:45:06 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:45:15 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:45:15 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:45:12Z
+    [currency] => EUR
+    [description] => OC72
+    [id] => cd3fa51a-cd96-4f9d-a985-9743e84e5f09
+    [live] => 
+    [order_id] => 072
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 4d5c640f366ee4925d47f9adec3a63847d16b8118cc7d49d444ae38394cf4a26
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:45:25 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:45:25 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:45:34 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:45:34 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:45:31Z
+    [currency] => EUR
+    [description] => OC73
+    [id] => 8bea8e2a-bc4c-4118-986c-be18073e6f94
+    [live] => 
+    [order_id] => 073
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 192d883d834444c765163a665b22d9df7b28c4d25d302ad4041ebe849ce869c3
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:45:44 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:45:44 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:45:54 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:45:54 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:45:50Z
+    [currency] => EUR
+    [description] => OC74
+    [id] => 769f6899-2dd7-48f8-89cd-ff3db6f93c7c
+    [live] => 
+    [order_id] => 074
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 282693cd1c88a0e38a78526ee39bcfefc54987ca76e0a70ae53aeb2a6d4ef2ff
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:46:03 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:46:03 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:46:13 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:46:13 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:46:09Z
+    [currency] => EUR
+    [description] => OC75
+    [id] => 348c608f-da93-47a3-9fbe-b634c1c0a515
+    [live] => 
+    [order_id] => 075
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 4e01dc24a429245efe6976c2b91c7a49fe783812f8b988a3ff969b2351fe560c
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:46:22 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:46:22 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:46:32 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:46:32 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:46:29Z
+    [currency] => EUR
+    [description] => OC76
+    [id] => f0125d66-4b07-424b-a0bf-56287780eefe
+    [live] => 
+    [order_id] => 076
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => ea23f15c98ff239b4c176f46ee2918cd577266e5d0ce3ccde6ef0250d8aa0cfd
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:46:42 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:46:42 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:46:51 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:46:51 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:46:48Z
+    [currency] => EUR
+    [description] => OC77
+    [id] => fe23adfa-b53f-4153-be8a-6f86cab98f54
+    [live] => 
+    [order_id] => 077
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 640cc6bc9f93f0501f122c0d902b8fdc244c25c46417d92546fefbf44608636c
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:47:01 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:47:01 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:47:11 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:47:11 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:47:07Z
+    [currency] => EUR
+    [description] => OC78
+    [id] => a923044d-661c-4fa3-9509-9f95ea8a7697
+    [live] => 
+    [order_id] => 078
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 5bf8bed0fee072b38ed8472f9c694168041b33f62ccc35341994bd309355efd4
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:47:21 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:47:21 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:47:30 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:47:30 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:47:26Z
+    [currency] => EUR
+    [description] => OC79
+    [id] => fb7885d9-2a09-480d-93e4-ad52480b190c
+    [live] => 
+    [order_id] => 079
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => b4bfab0039b98f1f776e26a350e6acaa0c44f8dbaf53a01061d26d41d59cd433
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:47:39 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:47:39 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:47:49 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:47:49 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:47:45Z
+    [currency] => EUR
+    [description] => OC80
+    [id] => e5306ec3-1a6b-41c5-9058-fe417c18c520
+    [live] => 
+    [order_id] => 080
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 57ad99cc54e51041ec8aad27900ac6ce8fcf984aa0b2373ec7e2018d8b0a5201
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:47:58 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:47:58 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:48:07 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:48:07 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:48:04Z
+    [currency] => EUR
+    [description] => OC81
+    [id] => d3e30ec3-98e2-46ad-b5fb-4f5f2d7ded12
+    [live] => 
+    [order_id] => 081
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 268d74ab4b6b11a54ba37ef4f455c9d28ddac64b2d28f8c706c45c6f7daa43df
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:48:17 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:48:17 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:48:27 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:48:27 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:48:23Z
+    [currency] => EUR
+    [description] => OC82
+    [id] => b7d4d21c-3a45-42ea-a9ea-575f12823585
+    [live] => 
+    [order_id] => 082
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 60507cb36644cef3a6b5ab182e41d6da622fe9bf903eea2bf7e90050fa33625c
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:48:37 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:48:37 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:48:46 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:48:46 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:48:43Z
+    [currency] => EUR
+    [description] => OC83
+    [id] => 8b3d307b-9742-46c6-a197-1bc94dfe4250
+    [live] => 
+    [order_id] => 083
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => ba451e9bda079f94c1962156bc8b0015c5fd87dd0542180ddeeaab6aba91e74c
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:48:56 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:48:56 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:49:05 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:49:05 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:49:02Z
+    [currency] => EUR
+    [description] => OC84
+    [id] => 2aea8c0c-fb17-4eec-b73c-dd7ff46302aa
+    [live] => 
+    [order_id] => 084
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => cd0b7c1d91aa2acd6d0a5f57e5739e3740767375070c6846b634ba0b0ed123de
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:49:15 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:49:15 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:49:24 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:49:24 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:49:21Z
+    [currency] => EUR
+    [description] => OC85
+    [id] => 40fe6442-bb7a-47d9-8b76-0688c9f9cdd8
+    [live] => 
+    [order_id] => 085
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 02dd005d94943ad2fc409b7cbebe8cb2e0ca411fe4318ea2879845b217df49bf
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:49:34 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:49:34 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:49:43 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:49:43 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:49:40Z
+    [currency] => EUR
+    [description] => OC86
+    [id] => 16ddf3fd-e3f4-4d58-baa2-246d2d02f030
+    [live] => 
+    [order_id] => 086
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => 0ac487fa900abcb705809d8f827f86d72f2acbb83bb9c5cef53d1db8fc58d8ba
+    [status] => approved
+    [type] => purchase
+)
+
+2020-10-26 11:49:52 - (Action::execute) - 796c219bd7388f41e046eaf332
+2020-10-26 11:49:52 - (Action::execute) - Array
+(
+    [language] => en-gb
+    [currency] => EUR
+    [__atuvc] => 20|43,4|44
+    [OCSESSID] => 796c219bd7388f41e046eaf332
+    [PHPSESSID] => 59df9fc8756c5903e21bfc65058de862
+    [default] => 7d39c55e63c055839b54af9d9d16c49c
+    [__atuvs] => 5f96ae4d045e3e4f003
+    [cardinitySessionId] => 796c219bd7388f41e046eaf332
+)
+
+2020-10-26 11:50:02 - (ControllerStartupRouter::index) - Payment success, details below
+2020-10-26 11:50:02 - (ControllerStartupRouter::index) - Array
+(
+    [amount] => 131.20
+    [country] => GB
+    [created] => 2020-10-26T11:49:58Z
+    [currency] => EUR
+    [description] => OC87
+    [id] => 6619f643-e35f-4186-8238-54f143c49c2b
+    [live] => 
+    [order_id] => 087
+    [payment_method] => card
+    [project_id] => test_pr_hb0ol0iscpiscwjzz5f9r7kqm5hyby
+    [signature] => a93436ee835e2a86532edac9cfa9566a1150ec4d9fe0857585c4feaeac84c4af
+    [status] => approved
+    [type] => purchase
+)
+

@@ -1,0 +1,194 @@
+10-23-2020 @ 09:55:32 - Order: 11. Calling Cardinity payment endpoint.
+10-23-2020 @ 09:55:33 - Order: 11. Cardinity payment completed at: 2020-10-23T09:55:33.333Z. Payment ID: fe6a6d4d-2fec-42c9-abc2-ae6269559216
+10-23-2020 @ 11:45:42 - Order: 14. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:45:44 - Order: 14. Cardinity payment pending, 3D auth required. Payment ID: 9e122d93-298b-4f62-9ea1-9024d2bf4721
+10-23-2020 @ 11:45:44 - Order: 14. Performing POST redirect to 3D Secure ACS
+10-23-2020 @ 11:45:45 - Order: 14. Starting Cardinity 3D processing
+10-23-2020 @ 11:45:45 - Order: 14. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:45:46 - Order: 14. Cardinity payment completed at: 2020-10-23T11:45:44Z. Payment ID: 9e122d93-298b-4f62-9ea1-9024d2bf4721
+10-23-2020 @ 11:49:17 - Order: 15. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:51:02 - Order: 15. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:51:04 - Order: 15. Cardinity payment pending, 3D auth required. Payment ID: 1be7dfff-1be7-4e97-82b3-b3f19fecd3e8
+10-23-2020 @ 11:51:04 - Order: 15. Performing POST redirect to 3D Secure ACS
+10-23-2020 @ 11:51:06 - Order: 15. Starting Cardinity 3D processing
+10-23-2020 @ 11:51:06 - Order: 15. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:51:06 - Order: 15. Cardinity payment completed at: 2020-10-23T11:51:04Z. Payment ID: 1be7dfff-1be7-4e97-82b3-b3f19fecd3e8
+10-23-2020 @ 11:53:20 - Order: 16. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:53:23 - Order: 16. Cardinity payment pending, 3D auth required. Payment ID: ba46c8d5-9887-42c3-a46a-652e596f7ab4
+10-23-2020 @ 11:53:23 - Order: 16. Performing POST redirect to 3D Secure ACS
+10-23-2020 @ 11:53:24 - Order: 16. Starting Cardinity 3D processing
+10-23-2020 @ 11:53:24 - Order: 16. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:53:25 - Order: 16. Cardinity payment completed at: 2020-10-23T11:53:22Z. Payment ID: ba46c8d5-9887-42c3-a46a-652e596f7ab4
+10-23-2020 @ 11:58:50 - Order: 17. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:58:52 - Order: 17. Cardinity payment pending, 3D auth required. Payment ID: 37335658-f28f-437a-a55e-4c1a6346e653
+10-23-2020 @ 11:58:52 - Order: 17. Performing POST redirect to 3D Secure ACS
+10-23-2020 @ 11:58:53 - Order: 17. Starting Cardinity 3D processing
+10-23-2020 @ 11:58:53 - Order: 17. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:58:54 - Order: 17. Cardinity payment was declined: 33333: 3D Secure Authorization Failed.. Payment ID: 37335658-f28f-437a-a55e-4c1a6346e653
+10-23-2020 @ 11:59:54 - Order: 17. Calling Cardinity payment endpoint.
+10-23-2020 @ 11:59:56 - Order: 17. Cardinity payment completed at: 2020-10-23T11:59:55.733Z. Payment ID: 902b6c62-2f2a-410f-ad78-81e2c2c19b24
+10-23-2020 @ 12:10:50 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:10:50 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:10:50 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:11:03 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:11:03 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:11:03 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:11:39 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:11:39 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:11:39 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:12:47 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:12:47 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:12:47 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:12:47 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:13:09 - Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:09 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:09 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:13:09 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:13:09 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:13:29 - Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:29 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:29 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:13:29 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:13:29 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:13:56 - test
+10-23-2020 @ 12:13:56 - Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:56 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:13:56 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:13:56 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:13:56 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:15:57 - test
+10-23-2020 @ 12:15:57 - Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:15:57 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:15:57 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:15:57 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:15:57 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:17:33 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:17:33 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:17:33 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:17:33 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:19:00 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:19:00 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:19:00 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:19:00 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:29:00 - Order: 18. 
+10-23-2020 @ 12:32:18 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:33:00 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:35:21 - Order: 18. Cardinity\Method\Payment\ThreeDS2Data Object
+(
+    [notificationUrl:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [browserInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [billingAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [deliveryAddress:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+    [cardHolderInfo:Cardinity\Method\Payment\ThreeDS2Data:private] => 
+)
+
+10-23-2020 @ 12:41:10 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:41:10 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:41:10 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
+10-23-2020 @ 12:48:14 - Order: 18. Calling Cardinity payment endpoint.
+10-23-2020 @ 12:48:14 - Order: 18. [threeds2_data] This field was not expected.
+10-23-2020 @ 12:48:14 - Order: 18. Direct payment errors: \r\n["Validation error: This field was not expected."]
